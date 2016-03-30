@@ -1,2 +1,4 @@
 # backlogIssuesBitbar
-get Backlog Issues and  print bitbar
+
+
+use [backlogkit](https://github.com/emsk/backlog_kit)
