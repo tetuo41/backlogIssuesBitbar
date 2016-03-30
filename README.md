@@ -1,4 +1,4 @@
 # backlogIssuesBitbar
 
 
-use [backlogkit](https://github.com/emsk/backlog_kit)
+use gem [backlogkit](https://github.com/emsk/backlog_kit)
